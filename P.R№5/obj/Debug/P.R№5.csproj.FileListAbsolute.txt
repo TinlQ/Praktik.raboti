@@ -1,0 +1,7 @@
+D:\P.R№5\bin\Debug\P.R№5.exe.config
+D:\P.R№5\bin\Debug\P.R№5.exe
+D:\P.R№5\bin\Debug\P.R№5.pdb
+D:\P.R№5\obj\Debug\P.R№5.csproj.AssemblyReference.cache
+D:\P.R№5\obj\Debug\P.R№5.csproj.CoreCompileInputs.cache
+D:\P.R№5\obj\Debug\P.R№5.exe
+D:\P.R№5\obj\Debug\P.R№5.pdb
