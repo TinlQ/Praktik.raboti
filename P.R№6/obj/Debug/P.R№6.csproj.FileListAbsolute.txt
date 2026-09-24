@@ -1,0 +1,7 @@
+D:\P.R№6\bin\Debug\P.R№6.exe.config
+D:\P.R№6\bin\Debug\P.R№6.exe
+D:\P.R№6\bin\Debug\P.R№6.pdb
+D:\P.R№6\obj\Debug\P.R№6.csproj.AssemblyReference.cache
+D:\P.R№6\obj\Debug\P.R№6.csproj.CoreCompileInputs.cache
+D:\P.R№6\obj\Debug\P.R№6.exe
+D:\P.R№6\obj\Debug\P.R№6.pdb
