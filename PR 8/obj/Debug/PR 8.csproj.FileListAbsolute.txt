@@ -1,0 +1,7 @@
+D:\PR 8\bin\Debug\PR 8.exe.config
+D:\PR 8\bin\Debug\PR 8.exe
+D:\PR 8\bin\Debug\PR 8.pdb
+D:\PR 8\obj\Debug\PR 8.csproj.AssemblyReference.cache
+D:\PR 8\obj\Debug\PR 8.csproj.CoreCompileInputs.cache
+D:\PR 8\obj\Debug\PR 8.exe
+D:\PR 8\obj\Debug\PR 8.pdb
