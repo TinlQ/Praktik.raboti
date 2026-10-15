@@ -1,0 +1,7 @@
+D:\PRAKT\Praktik.R #9\bin\Debug\Praktik.R #9.exe.config
+D:\PRAKT\Praktik.R #9\bin\Debug\Praktik.R #9.exe
+D:\PRAKT\Praktik.R #9\bin\Debug\Praktik.R #9.pdb
+D:\PRAKT\Praktik.R #9\obj\Debug\Praktik.R #9.csproj.AssemblyReference.cache
+D:\PRAKT\Praktik.R #9\obj\Debug\Praktik.R #9.csproj.CoreCompileInputs.cache
+D:\PRAKT\Praktik.R #9\obj\Debug\Praktik.R #9.exe
+D:\PRAKT\Praktik.R #9\obj\Debug\Praktik.R #9.pdb
