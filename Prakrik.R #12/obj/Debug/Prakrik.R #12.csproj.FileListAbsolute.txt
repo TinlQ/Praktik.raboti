@@ -1,0 +1,7 @@
+D:\PRAKT\Prakrik.R #12\bin\Debug\Prakrik.R #12.exe.config
+D:\PRAKT\Prakrik.R #12\bin\Debug\Prakrik.R #12.exe
+D:\PRAKT\Prakrik.R #12\bin\Debug\Prakrik.R #12.pdb
+D:\PRAKT\Prakrik.R #12\obj\Debug\Prakrik.R #12.csproj.AssemblyReference.cache
+D:\PRAKT\Prakrik.R #12\obj\Debug\Prakrik.R #12.csproj.CoreCompileInputs.cache
+D:\PRAKT\Prakrik.R #12\obj\Debug\Prakrik.R #12.exe
+D:\PRAKT\Prakrik.R #12\obj\Debug\Prakrik.R #12.pdb
