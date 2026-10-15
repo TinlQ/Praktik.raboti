@@ -57,16 +57,3 @@
 
 
 
-string msg0 = "Рейтинг тиктокеров:";
-string msg1 = "Ошибка! У тиктокеров одинаковые просмотры!";
-string msg2 = "Ошибка! Просмотры должны быть введены по убыванию!";
-string msg3 = "Ошибка! Есть дубликаты и порядок нарушен!";
-
-string message = "";
-
-message = message + msg0.Substring(0, msg0.Length * Convert.ToInt32(messageIndex == 0));
-message = message + msg1.Substring(0, msg1.Length * Convert.ToInt32(messageIndex == 1));
-message = message + msg2.Substring(0, msg2.Length * Convert.ToInt32(messageIndex == 2));
-message = message + msg3.Substring(0, msg3.Length * Convert.ToInt32(messageIndex == 3));
-
-Console.WriteLine("\n" + message);
